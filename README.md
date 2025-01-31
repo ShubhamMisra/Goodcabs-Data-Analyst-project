@@ -1,4 +1,4 @@
-# Goodcabs-Data-Analyst-project
+# Goodcabs Data Analyst Project
 
 **SQL_Music_Data_Analysis** Project Description:
 
