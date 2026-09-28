@@ -6,7 +6,7 @@
 ### **Python Data Analysis**
 
 #### 1. **Project Overview**
-   - Detailed analysis of a Goodcabs a Cab Service  using Python.
+   - Detailed analysis of a Namma Yatri a Cab Service  using Python.
    - Goodcabs is committed to supporting local drivers, helping them make a sustainable living in their hometowns while ensuring excellent service to passengers
    - As part of this initiative, the Goodcabs management team aims to assess the company’s performance across key metrics, including trip volume, passenger satisfaction, repeat passenger rate, trip distribution, and the balance between new and repeat passengers. 
 
