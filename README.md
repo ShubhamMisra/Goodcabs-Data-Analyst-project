@@ -1,4 +1,4 @@
-# Goodcabs Data Analyst Project
+# Namma Yatri Data Analyst Project
 
 
 ---
